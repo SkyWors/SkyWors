@@ -6,6 +6,6 @@
   🫠 But I'm a good dev...
 </p>
 
-## Statistics
+## Statistics GitHUB
 
 ![SkyWors's GitHub stats](https://github-readme-stats.vercel.app/api?username=skywors&count_private=true&show_icons=true&theme=vision-friendly-dark)
