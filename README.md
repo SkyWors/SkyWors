@@ -1,4 +1,4 @@
-## Hey 👋, I'm Sky'
+<h1 align="center">Hey 👋, I'm Sky'</h1>
 
 <p align="center">
   Yeah, AI is nothing 💭
