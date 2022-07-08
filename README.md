@@ -6,6 +6,12 @@
   🫠 But I'm a good dev...
 </p>
 
+## Projects
+
+<a href="https://hilziria.fr" target="_blank">
+  <img src="https://hilziria.fr/img/uploads/theme_logo.png" width="32" alt="HilZiria Network"></img>
+</a>
+
 ## Statistics GitHUB
 
 ![SkyWors's GitHub stats](https://github-readme-stats.vercel.app/api?username=skywors&count_private=true&show_icons=true&theme=vision-friendly-dark)
