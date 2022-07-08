@@ -6,9 +6,9 @@
   🫠 But I'm a good dev...
 </p>
 
-## Projects
+## Current Projects
 
-<a href="https://hilziria.fr" target="_blank">
+<a href="https://hilziria.fr">
   <img src="https://hilziria.fr/img/uploads/theme_logo.png" width="32" alt="HilZiria Network"></img>
 </a>
 
