@@ -6,11 +6,43 @@
   🫠 But I'm a good dev...
 </p>
 
-## Current Projects
+## Public projects
 
 <a href="https://hilziria.fr">
-  <img src="https://hilziria.fr/img/uploads/theme_logo.png" width="32" alt="HilZiria Network"></img>
+  <img src="https://github.com/SkyWors/SkyWors/blob/main/content/hilziria.png" width="32" alt="HilZiria Network"></img>
 </a>
+
+## Known languages and tools
+
+<div align-items: flex-start>
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="32" alt="C++"></img>
+  </a>
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" alt="HTML 5"></img>
+  </a>
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="32" alt="CSS"></img>
+  </a>
+  <a href="https://skript-mc.fr">
+    <img src="https://avatars.githubusercontent.com/u/46892472?s=200&v=4" width="32" alt="SkriptMC"></img>
+  </a>
+  <a href="https://www.java.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" alt="Java">
+  </a>
+  <a href="https://www.mysql.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" alt="MySQL">
+  </a>
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="32" alt="Python">
+  </a>
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="32" alt="Bash">
+  </a>
+  <a href="https://httpd.apache.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="32" alt="Apache">
+  </a>
+</div>
 
 ## GitHUB's Statistics
 
