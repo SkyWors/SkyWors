@@ -3,7 +3,7 @@
 <p align="center">
   Yeah, AI is nothing 💭
   <br>
-  🫠 But I'm a good dev...
+  🫠 But I'm a good french dev...
 </p>
 
 ## Public projects
