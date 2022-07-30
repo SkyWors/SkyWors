@@ -30,14 +30,14 @@
   <a href="https://www.java.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" alt="Java">
   </a>
-  <a href="https://www.mysql.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" alt="MySQL">
-  </a>
   <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="32" alt="Python">
   </a>
   <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="32" alt="Bash">
+  </a>
+  <a href="https://www.mysql.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" alt="MySQL">
   </a>
   <a href="https://httpd.apache.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="32" alt="Apache">
