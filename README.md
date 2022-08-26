@@ -45,8 +45,16 @@
   <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" width="32" alt="JSON">
   </a>
+  <a>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="32" alt="C">
+  </a>
 </div>
 
 ## GitHUB's Statistics
 
-![SkyWors's GitHub stats](https://github-readme-stats.vercel.app/api?username=skywors&count_private=true&show_icons=true&theme=vision-friendly-dark)
+<a>
+	<img src="https://github-readme-stats.vercel.app/api?username=skywors&count_private=true&show_icons=true&theme=vision-friendly-dark" width="400" alt="SkyWors's GitHub stats">
+</a>
+<a>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skywors&count_private=true&layout=compact&langs_count=6&theme=vision-friendly-dark" width="300" alt="SkyWors's GitHub languages">
+</a>
