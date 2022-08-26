@@ -53,8 +53,8 @@
 ## GitHUB's Statistics
 
 <a>
-	<img src="https://github-readme-stats.vercel.app/api?username=skywors&count_private=true&show_icons=true&theme=vision-friendly-dark" width="400" alt="SkyWors's GitHub stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=skywors&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Sky's Statistics" width="400" alt="SkyWors's GitHub stats">
 </a>
 <a>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skywors&count_private=true&layout=compact&langs_count=6&theme=vision-friendly-dark" width="300" alt="SkyWors's GitHub languages">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skywors&count_private=true&layout=compact&theme=vision-friendly-dark&custom_title=Sky's Languages" width="300" alt="SkyWors's GitHub languages">
 </a>
