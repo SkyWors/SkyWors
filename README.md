@@ -19,6 +19,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="32" alt="C++"></img>
   </a>
   <a>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="32" alt="C">
+  </a>
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" alt="HTML 5"></img>
   </a>
   <a>
@@ -44,9 +47,6 @@
   </a>
   <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" width="32" alt="JSON">
-  </a>
-  <a>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="32" alt="C">
   </a>
 </div>
 
