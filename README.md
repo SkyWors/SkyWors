@@ -4,6 +4,9 @@
   Yeah, AI is nothing 💭
   <br>
   🫠 But I'm a good french dev...
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/512px-42_Logo.svg.png" align="top" width="20" alt="42"></img>
+  <i>pool survivor</i>
 </p>
 
 ## Public projects
