@@ -56,7 +56,6 @@
 ## GitHUB's Statistics
 
 ![SkyWors's GitHub stats](https://github-readme-stats.vercel.app/api?username=skywors&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Sky's%20Statistics)
-![SkyWors's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skywors&count_private=true&layout=compact&theme=vision-friendly-dark&custom_title=Sky's%20Languages)
 
 ## Activities Statistics
 
