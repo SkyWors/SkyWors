@@ -12,7 +12,7 @@
 <h2 align="center">Known languages and tools</h2>
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=cs,c,cmake,gradle,py,html,css,php,mysql,nginx,bash,arduino,cloudflare,docker,dotnet,git,github,gitlab,linux,ps,vscode,visualstudio&perline=11" width ="65%">
+	<img src="https://skillicons.dev/icons?i=php,java,mysql,nginx,cs,cpp,c,cmake,maven,gradle,py,html,css,bash,arduino,cloudflare,docker,dotnet,git,github,gitlab,linux,,,,,vscode,visualstudio,idea&perline=11" width ="65%">
 </p>
 
 <h2 align="center">Public projects</h2>
@@ -25,10 +25,4 @@
 <h2 align="center">GitHUB's Statistics</h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=skywors&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Sky's%20Statistics">
-</p>
-
-<h2 align="center">Activities Statistics</h2>
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=skywors&layout=compact&theme=vision-friendly-dark&custom_title=Sky's%20Activities" alt="skywors's Wakatime stats" />
 </p>
