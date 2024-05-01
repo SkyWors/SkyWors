@@ -7,6 +7,9 @@
 	<br>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/512px-42_Logo.svg.png" align="top" width="20" alt="42"></img>
 	<i>pool survivor</i>
+ 	<br>
+ 	<br>
+	<img src="https://komarev.com/ghpvc/?username=SkyWors&color=orange&abbreviated=true">
 </p>
 
 <h2 align="center">Known languages and tools</h2>
@@ -17,7 +20,7 @@
 
 <h2 align="center">Public projects</h2>
 <p align="center">
-	<a href="https://hilziria.fr">
+	<a href="https://piexplay.fr">
 	<img src="https://github.com/SkyWors/SkyWors/blob/main/content/hilziria.png" width="56" alt="HilZiria Network"></img>
 	</a>
 </p>
