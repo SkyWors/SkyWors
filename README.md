@@ -5,7 +5,7 @@
 	<br>
 	🫠 But I'm a good french dev...
 	<br>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/512px-42_Logo.svg.png" align="top" width="20" alt="42"></img>
+	<img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" align="center" width="20" alt="42"></img>
 	<i>pool survivor</i>
  	<br>
  	<br>
@@ -19,7 +19,7 @@
 </p>
 
 <h2 align="center">Public projects</h2>
-<p align="center">
+<p align="center" style="text-decoration: none">
 	<a href="https://piexplay.fr">
 		<img src="https://github.com/SkyWors/SkyWors/blob/main/content/hilziria.png" width="56" alt="HilZiria Network"></img>
 	</a>
@@ -28,7 +28,7 @@
 	</a>
 </p>
 
-<h2 align="center">GitHUB's Statistics</h2>
+<h2 align="center">GitHub's Statistics</h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=skywors&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Sky's%20Statistics">
 </p>
