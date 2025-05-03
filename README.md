@@ -15,7 +15,7 @@
 <h2 align="center">Known languages and tools</h2>
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=php,java,mysql,nginx,cs,cpp,c,cmake,maven,gradle,py,html,css,bash,arduino,cloudflare,docker,dotnet,git,linux,javascript,nodejs,,,,github,gitlab,vscode,visualstudio,idea&perline=11" width ="65%">
+	<img src="https://skillicons.dev/icons?i=php,symfony,wordpress,,vscode,visualstudio,idea,,linux,debian,windows,java,py,html,,git,github,gitlab,,,,,css,javascript,typescript,,mysql,postgres,nginx,,,,,nodejs,angular,react,,docker,cmake,cloudflare,,,,,cs,cpp,c,,maven,gradle,grafana,,,,,bash,arduino,dotnet&perline=11" width ="60%">
 </p>
 
 <h2 align="center">Public projects</h2>
