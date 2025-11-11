@@ -1,34 +1,44 @@
 <h1 align="center">Hey 👋, I'm Sky'</h1>
 
+> [!NOTE]
+> Yeah, AI is nothing 💭
+>
+> <img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" align="center" width="20" alt="42"></img> <i>pool survivor</i>
+
 <p align="center">
-	Yeah, AI is nothing 💭
-	<br>
-	🫠 But I'm a good french dev...
-	<br>
-	<img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" align="center" width="20" alt="42"></img>
-	<i>pool survivor</i>
- 	<br>
- 	<br>
 	<img src="https://komarev.com/ghpvc/?username=SkyWors&color=orange&abbreviated=true">
 </p>
 
-<h2 align="center">Known languages and tools</h2>
-
+<h2 align="center">Languages, Tools & Socials</h2>
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=php,symfony,wordpress,,vscode,visualstudio,idea,,linux,debian,windows,java,py,html,,git,github,gitlab,,,,,css,javascript,typescript,,mysql,postgres,nginx,,,,,nodejs,angular,react,,docker,cmake,cloudflare,,,,,cs,cpp,c,,maven,gradle,grafana,,,,,bash,arduino,dotnet&perline=11" width ="60%">
+	<picture>
+		<img src="https://urskill.erickpaoletti.fr?icons=php,tempora,symfony,laravel,,vscode,visualstudio,idea,webstorm,,linux,debian,nix,mint,wordpress,java,kotlin,python,,projectile,github,gitlab,git,,redhat,ubuntu,raspberrypi,apple,html,css,javascript,typescript,,nginx,apache,grafana,cloudflare,,windowserver,windows,,,nodejs,angular,react,bash,,mysql,postgresql,gradle,docker,,,,,,c,cpp,cs,arduino,,cmake,maven,zsh,,,,,,,dotnet,discordjs,skript,markdown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,linkedin,discord,bluesky,youtube,instagram,x&max_per_row=14&background_color=242424" />
+	</picture>
 </p>
+<p align="center"><i>Those icons are displayed using <a href="https://urskill.erickpaoletti.fr">UrSkill</a>, one of my projects!</i></p>
 
 <h2 align="center">Public projects</h2>
 <p align="center" style="text-decoration: none">
-	<a href="https://piexplay.fr">
-		<img src="https://github.com/SkyWors/SkyWors/blob/main/content/hilziria.png" width="56" alt="HilZiria Network"></img>
+	<a href="https://projectile.erickpaoletti.fr">
+		<img align="left" src="https://urskill.erickpaoletti.fr?icons=projectile&max_per_row=1&background_color=242424" />
+		<p>Projectile</p>
 	</a>
-	<a href="https://github.com/LabSupervisor/LabSupervisor">
-		<img src="https://github.com/SkyWors/SkyWors/blob/main/content/labsupervisor.png" width="56" alt="LabSupervisor"></img>
+	<p>A project to list all of your projects</p>
+	<br>
+	<a href="https://github.com/tempora-framework">
+		<img align="left" src="https://urskill.erickpaoletti.fr?icons=tempora&max_per_row=1&background_color=242424" /><p>Tempora</p>
 	</a>
+	<p>A custom and powerfull PHP MVC framework</p>
+	<br>
+	<p align="center"><a href="https://github.com/SkyWors?tab=repositories&type=source"><i>And more...</i></a></p>
 </p>
 
+<br>
 <h2 align="center">GitHub's Statistics</h2>
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=skywors&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Sky's%20Statistics">
-</p>
+<details>
+	<summary>Repositories statistics</summary>
+	<br>
+	<p align="center">
+		<img src="https://github-readme-stats.vercel.app/api?username=skywors&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Sky's%20Statistics">
+	</p>
+</details>
