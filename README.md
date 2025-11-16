@@ -12,7 +12,7 @@
 <h2 align="center">Languages, Tools & Socials</h2>
 <p align="center">
 	<picture>
-		<img src="https://urskill.erickpaoletti.fr?icons=php,tempora,symfony,laravel,,vscode,visualstudio,idea,webstorm,,linux,debian,nix,mint,wordpress,java,kotlin,python,,projectile,github,gitlab,git,,redhat,ubuntu,raspberrypi,apple,html,css,javascript,typescript,,nginx,apache,grafana,cloudflare,,windowserver,windows,,,nodejs,angular,react,bash,,mysql,postgresql,gradle,docker,,,,,,c,cpp,cs,arduino,,cmake,maven,zsh,,,,,,,dotnet,discordjs,skript,markdown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,linkedin,discord,bluesky,youtube,instagram,x&max_per_row=14&background_color=242424" />
+		<img src="https://urskill.erickpaoletti.fr?icons=php,tempora,symfony,laravel,,vscode,visualstudio,jetbrains,projectile,,linux,debian,nix,mint,wordpress,java,kotlin,python,,github,gitlab,git,cloudflare,,redhat,ubuntu,raspberrypi,apple,html,css,javascript,typescript,,nginx,apache,grafana,docker,,windowserver,windows,,,nodejs,angular,react,bash,,mariadb,mysql,postgresql,gradle,,,,,,c,cpp,cs,arduino,,cmake,maven,zsh,,,,,,,dotnet,discordjs,skript,markdown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,linkedin,discord,bluesky,youtube,instagram,x&max_per_row=14&background_color=242424" />
 	</picture>
 </p>
 <p align="center"><i>Those icons are displayed using <a href="https://urskill.erickpaoletti.fr">UrSkill</a>, one of my projects!</i></p>
@@ -21,7 +21,7 @@
 <p align="center" style="text-decoration: none">
 	<a href="https://projectile.erickpaoletti.fr">
 		<img align="left" src="https://urskill.erickpaoletti.fr?icons=projectile&max_per_row=1&background_color=242424" />
-		<p>Projectile</p>
+		<a href="https://projectile.erickpaoletti.fr"><p>Projectile</p></a>
 	</a>
 	<p>A project to list all of your projects</p>
 	<br>
