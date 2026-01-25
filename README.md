@@ -14,7 +14,7 @@
 
 <h2 align="center">Languages, Tools & Socials</h2>
 <p align="center">
-	<img width="90%" src="https://urskill.erickpaoletti.fr?icons=php,tempora,symfony,laravel,,vscode,visualstudio,jetbrains,projectile,,linux,debian,mint,fedora,wordpress,java,kotlin,python,,github,gitlab,git,cloudflare,,nix,redhat,rocky,ubuntu,html,css,javascript,typescript,,nginx,apache,grafana,docker,,raspberrypi,windows,windowserver,apple,nodejs,angular,react,bash,,mariadb,mysql,postgresql,gradle,,,,,,c,cpp,cs,arduino,,cmake,maven,zsh,chrome,,,,,,dotnet,discordjs,skript,markdown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,linkedin,discord,bluesky,youtube,instagram,x&max_per_row=14&background_color=242424" />
+	<img width="90%" src="https://urskill.erickpaoletti.fr?icons=php,tempora,symfony,laravel,,vscode,visualstudio,jetbrains,projectile,,linux,debian,mint,fedora,dolibarr,wordpress,java,python,,github,gitlab,git,githubactions,,nix,redhat,rocky,ubuntu,html,css,javascript,typescript,,cloudflare,nginx,apache,grafana,,raspberrypi,windows,windowserver,apple,nodejs,angular,vuejs,expressjs,,mariadb,mysql,postgresql,gradle,,,,,,react,c,cpp,csharp,,docker,cmake,maven,chrome,,,,,,dotnet,arduino,discordjs,skript,,bash,zsh,,,,,,,,kotlin,markdown,,,,,,,,,,,,,,,,,linkedin,discord,bluesky,youtube,instagram,twitter&max_per_row=14&background_color=242424" />
 </p>
 <p align="center"><i>Those icons are displayed using <a href="https://urskill.erickpaoletti.fr">UrSkill</a>, one of my projects!</i></p>
 
