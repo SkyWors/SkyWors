@@ -87,6 +87,89 @@
 </p>
 <p align="center"><i>Those icons are displayed using <a href="https://urskill.erickpaoletti.fr">UrSkill</a>, one of my projects!</i></p>
 
+<p align="center" id="game">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://assets.erickpaoletti.fr/title?theme=dark&text=Play+a+move" />
+		<img width="100%" src="https://assets.erickpaoletti.fr/title?theme=light&text=Play+a+move" alt="Play a move" />
+	</picture>
+</p>
+
+<table align="center">
+	<tr>
+		<td>
+			<table>
+				<tr>
+					<td><a href="https://assets.erickpaoletti.fr/game/play?id=skywors&cell=0&back=https%3A%2F%2Fgithub.com%2FSkyWors%23game">
+						<picture>
+							<source media="(prefers-color-scheme: dark)" srcset="https://assets.erickpaoletti.fr/game/cell?theme=dark&id=skywors&cell=0" />
+							<img width="96" src="https://assets.erickpaoletti.fr/game/cell?theme=light&id=skywors&cell=0" alt="Cell A1" />
+						</picture>
+					</a></td>
+					<td><a href="https://assets.erickpaoletti.fr/game/play?id=skywors&cell=1&back=https%3A%2F%2Fgithub.com%2FSkyWors%23game">
+						<picture>
+							<source media="(prefers-color-scheme: dark)" srcset="https://assets.erickpaoletti.fr/game/cell?theme=dark&id=skywors&cell=1" />
+							<img width="96" src="https://assets.erickpaoletti.fr/game/cell?theme=light&id=skywors&cell=1" alt="Cell B1" />
+						</picture>
+					</a></td>
+					<td><a href="https://assets.erickpaoletti.fr/game/play?id=skywors&cell=2&back=https%3A%2F%2Fgithub.com%2FSkyWors%23game">
+						<picture>
+							<source media="(prefers-color-scheme: dark)" srcset="https://assets.erickpaoletti.fr/game/cell?theme=dark&id=skywors&cell=2" />
+							<img width="96" src="https://assets.erickpaoletti.fr/game/cell?theme=light&id=skywors&cell=2" alt="Cell C1" />
+						</picture>
+					</a></td>
+				</tr>
+				<tr>
+					<td><a href="https://assets.erickpaoletti.fr/game/play?id=skywors&cell=3&back=https%3A%2F%2Fgithub.com%2FSkyWors%23game">
+						<picture>
+							<source media="(prefers-color-scheme: dark)" srcset="https://assets.erickpaoletti.fr/game/cell?theme=dark&id=skywors&cell=3" />
+							<img width="96" src="https://assets.erickpaoletti.fr/game/cell?theme=light&id=skywors&cell=3" alt="Cell A2" />
+						</picture>
+					</a></td>
+					<td><a href="https://assets.erickpaoletti.fr/game/play?id=skywors&cell=4&back=https%3A%2F%2Fgithub.com%2FSkyWors%23game">
+						<picture>
+							<source media="(prefers-color-scheme: dark)" srcset="https://assets.erickpaoletti.fr/game/cell?theme=dark&id=skywors&cell=4" />
+							<img width="96" src="https://assets.erickpaoletti.fr/game/cell?theme=light&id=skywors&cell=4" alt="Cell B2" />
+						</picture>
+					</a></td>
+					<td><a href="https://assets.erickpaoletti.fr/game/play?id=skywors&cell=5&back=https%3A%2F%2Fgithub.com%2FSkyWors%23game">
+						<picture>
+							<source media="(prefers-color-scheme: dark)" srcset="https://assets.erickpaoletti.fr/game/cell?theme=dark&id=skywors&cell=5" />
+							<img width="96" src="https://assets.erickpaoletti.fr/game/cell?theme=light&id=skywors&cell=5" alt="Cell C2" />
+						</picture>
+					</a></td>
+				</tr>
+				<tr>
+					<td><a href="https://assets.erickpaoletti.fr/game/play?id=skywors&cell=6&back=https%3A%2F%2Fgithub.com%2FSkyWors%23game">
+						<picture>
+							<source media="(prefers-color-scheme: dark)" srcset="https://assets.erickpaoletti.fr/game/cell?theme=dark&id=skywors&cell=6" />
+							<img width="96" src="https://assets.erickpaoletti.fr/game/cell?theme=light&id=skywors&cell=6" alt="Cell A3" />
+						</picture>
+					</a></td>
+					<td><a href="https://assets.erickpaoletti.fr/game/play?id=skywors&cell=7&back=https%3A%2F%2Fgithub.com%2FSkyWors%23game">
+						<picture>
+							<source media="(prefers-color-scheme: dark)" srcset="https://assets.erickpaoletti.fr/game/cell?theme=dark&id=skywors&cell=7" />
+							<img width="96" src="https://assets.erickpaoletti.fr/game/cell?theme=light&id=skywors&cell=7" alt="Cell B3" />
+						</picture>
+					</a></td>
+					<td><a href="https://assets.erickpaoletti.fr/game/play?id=skywors&cell=8&back=https%3A%2F%2Fgithub.com%2FSkyWors%23game">
+						<picture>
+							<source media="(prefers-color-scheme: dark)" srcset="https://assets.erickpaoletti.fr/game/cell?theme=dark&id=skywors&cell=8" />
+							<img width="96" src="https://assets.erickpaoletti.fr/game/cell?theme=light&id=skywors&cell=8" alt="Cell C3" />
+						</picture>
+					</a></td>
+				</tr>
+			</table>
+		</td>
+		<td>
+			<picture>
+				<source media="(prefers-color-scheme: dark)" srcset="https://assets.erickpaoletti.fr/game/stats?theme=dark&id=skywors" />
+				<img src="https://assets.erickpaoletti.fr/game/stats?theme=light&id=skywors" alt="Morpion statistics" />
+			</picture>
+		</td>
+	</tr>
+</table>
+<p align="center"><i>Click an empty cell to play the current turn, everyone shares the same board.</i></p>
+
 <p align="center">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://assets.erickpaoletti.fr/title?theme=dark&text=Public+projects" />
